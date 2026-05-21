@@ -1,1 +1,1 @@
-print("I like Rice")
+print("I like Rice!")
